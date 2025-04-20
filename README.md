@@ -1,8 +1,6 @@
-# Criando um arquivo README.md com o conteúdo formatado para o projeto SGHSS
-
-readme_content = """\
 # 💙 VidaPlus_MariaLira  
 **Projeto: SGHSS – Sistema de Gestão Hospitalar e de Serviços de Saúde**
+**Maria Fernanda Silva Lira - RU 4372306**
 
 ---
 
@@ -19,8 +17,7 @@ Este sistema faz parte do portfólio **VidaPlus_MariaLira** e demonstra a aplica
 - **HTML5** – Estrutura das páginas  
 - **CSS3** – Estilização responsiva e amigável  
 - **JavaScript** – Validações e interações dinâmicas  
-- **GitHub** – Armazenamento e versionamento do código  
-- **Figma** *(opcional)* – Protótipos visuais e UI/UX
+- **GitHub** – Armazenamento e versionamento do código
 
 ---
 
