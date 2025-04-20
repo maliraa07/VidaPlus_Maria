@@ -37,7 +37,7 @@ Este sistema faz parte do portfólio **VidaPlus_MariaLira** e demonstra a aplica
 ## 📷 Prints e Funcionalidades
 
 Abaixo estão os prints das telas com os principais recursos em funcionamento, acompanhados de explicações sobre os testes realizados e os resultados esperados de cada página.  
-> *Confira a pasta `/prints` ou role até a seção abaixo para visualizar cada tela do sistema.*
+> *Confira a pasta `assets/prints` ou role até a seção abaixo para visualizar cada tela do sistema.*
 
 ---
 
